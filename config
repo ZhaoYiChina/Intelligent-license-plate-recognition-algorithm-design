@@ -1,0 +1,17 @@
+
+# -*- coding: utf-8 -*-
+__author__ = '赵毅'
+
+#用于中间环节对数据的传递
+
+class global_var:
+    name = None
+
+#用于设置当前处理图片的名称
+def set_name(name):
+    global_var.name = name
+
+
+#用于获取当前处理图片的名称
+def get_name():
+    return global_var.name
