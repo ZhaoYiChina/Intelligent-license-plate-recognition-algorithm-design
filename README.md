@@ -1,5 +1,7 @@
-# -
-OpenCV进行图像预处理，SVM进行车牌字符识别
+# -Intelligent license plate recognition algorithm design（智能车牌识别算法设计）
+
+主要内容：OpenCV进行图像预处理，SVM进行车牌字符识别
+（ps:代码注释很完善，此处省略解释）
 
 图像预处理：
 ![image](https://github.com/ZhaoYiChina/-/blob/master/Image/%E5%9B%BE%E5%83%8F%E9%A2%84%E5%A4%84%E7%90%86.png)
